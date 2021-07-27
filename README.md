@@ -1,6 +1,6 @@
 # Drinking-water-quality
-Classification of water potability.
-Method0logy:
+## Classification of water potability.
+### Methodology:
 i) Prediction of missing values using separate model
 ii) EDA
 iii) Smote
